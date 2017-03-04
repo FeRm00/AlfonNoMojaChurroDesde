@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Alfon No Moja Churro Desde</string>
+
+    <string name="kikisnightFirma1">KikisNight</string>
+    <string name="kikisnightFirma2">Entertainment Solutions</string>
+
+    <string name="textoSinMojar">#Tiempo Sin Mojar</string>
+    <string name="textoNoData">#00.00</string>
+
+    <string name="textoPokemon">Número de Pokemons capturados por Viris</string>
+    <string name="textoBixo">Número de españoles que han pillado bixo en este tiempo</string>
+    <string name="textoApollo11">Número de misiones Apollo11 completas que se podrían haber llevado a cabo</string>
+</resources>
